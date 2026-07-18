@@ -65,6 +65,10 @@ The design files are provided both as individual parts (`.stl`) and as an integr
 
 ## ⚙️ Assembly Steps
 
+<p align="center">
+  <img src="Circuit/Circuit.png" alt="Circuit" width="30%">
+</p>
+
 1. **Electronics Prep:** Solder the TP4056 module, 18650 battery, switches, and the motor according to your circuit layout.
 2. **Housing Placement:** Fit the soldered components into their respective slots inside the `Main.stl` frame. Ensure the Type-C port aligns with the bottom opening.
 3. **Mechanical Assembly:** Connect the upper, lower, and main frames using M2 screws.
