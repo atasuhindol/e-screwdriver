@@ -66,7 +66,7 @@ The design files are provided both as individual parts (`.stl`) and as an integr
 ## ⚙️ Assembly Steps
 
 <p align="center">
-  <img src="Circuit/Circuit.png" alt="Circuit" width="30%">
+  <img src="Circuit/Circuit.png" alt="Circuit">
 </p>
 
 1. **Electronics Prep:** Solder the TP4056 module, 18650 battery, switches, and the motor according to your circuit layout.
